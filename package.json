@@ -1,0 +1,35 @@
+{
+  "name": "insureprofit",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "aws-sdk": "^2.437.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.16",
+    "child_process": "^1.0.2",
+    "dgram": "^1.0.1",
+    "dns": "^0.2.2",
+    "fs": "0.0.1-security",
+    "gridsome": "^0.5.0",
+    "net": "^1.0.2",
+    "nodemailer": "^6.1.0",
+    "tls": "0.0.1",
+    "vue": "^2.6.10",
+    "vue-agile": "^0.3.7",
+    "vue-easy-slider": "^5.2.7",
+    "vue-scroll-progress": "^1.0.4",
+    "vue-svg-loader": "^0.12.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-resources-loader": "^1.2.1",
+    "vue-textra": "^1.1.0"
+  }
+}
