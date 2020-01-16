@@ -20,8 +20,8 @@
   <div class="col-md-4 text-center">
   
     <h4 class="">Office</h4>
-    <p><b>20 Maritime Ontario Blvd, Unit 10<br>Brampton ON L6S0E7</b></p>
-    <a href="https://www.google.com/maps/place/20+Maritime+Ontario+Blvd+%2310,+Brampton,+ON+L6S+0C2/@43.7471044,-79.6959979,127a,35y,336.63h,45t/data=!3m1!1e3!4m5!3m4!1s0x882b3d01955445b5:0xd8b388b04fb3c76c!8m2!3d43.7482781!4d-79.6970027" target="_blank"><b-button class="Button--button--3B9Ox btn-outline-primary btn-sm">Get Directions</b-button></a>
+    <p><b>83 Longevity Road, Brampton, ON L6X 0B4</b></p>
+    <a href="https://goo.gl/maps/uhg8CKbKVQ7jyuPk6" target="_blank"><b-button class="Button--button--3B9Ox btn-outline-primary btn-sm">Get Directions</b-button></a>
       </div>
 
        <div class="col-md-4 text-center">
