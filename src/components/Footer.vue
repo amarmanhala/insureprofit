@@ -30,10 +30,7 @@
           <i class="fas fa-phone"></i>
 1-416-817-3730
         </a>
-         <a href="tel: 1-365-788-5001" class="nav-item nav-link callus">
-          <i class="fas fa-phone"></i>
-1-365-788-5001
-        </a>
+     
       </div>
 
     </div>
