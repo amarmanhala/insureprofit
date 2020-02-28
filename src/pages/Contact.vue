@@ -16,10 +16,7 @@
           <i class="fas fa-phone"></i>
 1-416-817-3730
         </a>
-        <a href="tel: 1-365-788-5001" class="link">
-          <i class="fas fa-phone"></i>
-1-365-788-5001
-        </a>
+     
          <a href="mailto:2insure.profit@gmail.com" class="link">
           <i class="fas fa-envelope"></i>
 2INSURE.PROFIT@GMAIL.COM
