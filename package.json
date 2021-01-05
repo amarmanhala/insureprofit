@@ -9,7 +9,7 @@
   "dependencies": {
     "animate.css": "^3.7.0",
     "aws-sdk": "^2.437.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.16",
     "child_process": "^1.0.2",
