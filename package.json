@@ -18,7 +18,7 @@
     "fs": "0.0.1-security",
     "gridsome": "^0.5.0",
     "net": "^1.0.2",
-    "nodemailer": "^6.1.0",
+    "nodemailer": "^6.4.16",
     "tls": "0.0.1",
     "vue": "^2.6.10",
     "vue-agile": "^0.3.7",
